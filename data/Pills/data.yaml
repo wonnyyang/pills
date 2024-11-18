@@ -1,0 +1,12 @@
+train: C:\TTTTTTTT\yolov5_master\yolov5_master\data\Pills\train\images
+val: C:\TTTTTTTT\yolov5_master\yolov5_master\data\Pills\valid\images
+
+nc: 1
+names: ['pills']
+
+roboflow:
+  workspace: test-xobwm
+  project: test_pills-i2hvq
+  version: 2
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/test-xobwm/test_pills-i2hvq/dataset/2
