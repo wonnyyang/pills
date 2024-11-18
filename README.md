@@ -19,3 +19,27 @@
    ```bash
    git clone https://github.com/username/repository.git
 
+
+
+
+
+# Pill Recognition AI Model
+
+## Project Overview
+This project aims to develop an artificial intelligence model that recognizes pills. This model is part of an AI pill recognition alarm system designed for patients with dementia or severe forgetfulness, allowing users to recognize pills when an alarm goes off to turn it off. However, the files currently uploaded in this repository exclusively focus on recognizing pills.
+
+## Motivation for Development
+Many people forget to take their medications due to dementia or forgetfulness. To address this issue, we developed a system that allows users to recognize a pill's image when an alarm rings and turn it off. This model supports users in managing their health and facilitates medication adherence.
+
+## Technology Stack
+- **Programming Language**: Python
+- **Deep Learning Framework**: YOLOv5
+- **Libraries**: OpenCV, NumPy, Matplotlib
+
+## Dataset
+The pill recognition model was trained using a dataset containing images of various pills. This dataset consists of pill photos that were labeled manually, including images taken from various angles and lighting conditions to enhance the model's accuracy.
+
+## Installation Instructions
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/username/repository.git
